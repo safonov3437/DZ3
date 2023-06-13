@@ -1,0 +1,15 @@
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.csproj.AssemblyReference.cache
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.AssemblyInfoInputs.cache
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.AssemblyInfo.cs
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.csproj.CoreCompileInputs.cache
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\bin\Debug\net6.0\Tretiye.exe
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\bin\Debug\net6.0\Tretiye.deps.json
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\bin\Debug\net6.0\Tretiye.runtimeconfig.json
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\bin\Debug\net6.0\Tretiye.dll
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\bin\Debug\net6.0\Tretiye.pdb
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.dll
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\refint\Tretiye.dll
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.pdb
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\Tretiye.genruntimeconfig.cache
+D:\ДЗ по ГБ\ZnkSYazProgII\Tretiye\obj\Debug\net6.0\ref\Tretiye.dll
